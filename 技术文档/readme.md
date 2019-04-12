@@ -3,7 +3,7 @@
 -------------------------------------------
 
 #### python相关书籍
-* python核心编程（第二版）
+* python核心编程（第二版）（[书籍地址](https://legacy.gitbook.com/book/wizardforcel/core-python-2e/details)）
 
 *******************************************
 
