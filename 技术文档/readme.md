@@ -5,3 +5,6 @@
 
 ##### 数据挖掘十大算法详解
 主要是对数据挖掘中的十大常见算法进行介绍
+
+##### 《数据科学中的R语言》作者肖凯老师
+书籍地址 https://yongle.gitbooks.io/datamining/content/
