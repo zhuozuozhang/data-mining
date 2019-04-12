@@ -10,5 +10,5 @@
 #### 数据分析和数据相关方面书籍
 * 十分钟搞定Pandas  
 * 数据挖掘十大算法详解 
-
 * <<数据科学中的R语言>>作者肖凯老师 （[书籍地址](https://yongle.gitbooks.io/datamining/content) ）
+* 数据挖掘算法详解实现与解析 （[书籍地址](https://github.com/linyiqun/DataMiningAlgorithm) ）
