@@ -14,3 +14,4 @@
 * 数据挖掘十大算法详解 
 * <<数据科学中的R语言>>作者肖凯老师 （[书籍地址](https://yongle.gitbooks.io/datamining/content) ）
 * 数据挖掘算法详解实现与解析 （[书籍地址](https://github.com/linyiqun/DataMiningAlgorithm) ）
+* 高级R语言解决方案（[书籍地址](https://advanced-r-solutions.rbind.io/) ）
