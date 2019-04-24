@@ -8,3 +8,4 @@
 
 
 * python100天从入门到大师([链接地址](https://github.com/jackfrued/Python-100-Days))
+* 最全的语料([链接地址]https://github.com/liuhuanyong/ChineseNLPCorpus)
